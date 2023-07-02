@@ -1,1 +1,1 @@
-这里主要记录markdown知识点
+This repository mainly contains records of learning.
