@@ -1,1 +1,1 @@
-This repository mainly contains records of learning.
+This repository mainly contains records of learning:)
